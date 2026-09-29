@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=180&section=header&text=Денис%20Стрельников&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header"/>
+<img src="./assets/header.svg" alt="Денис Стрельников"/>
 
 <img src="./assets/typing-intro.svg" alt=""/>
 
 <br/>
 
-[![SRE](https://img.shields.io/badge/Роль-SRE%20Engineer-667eea?style=for-the-badge&logo=serverless&logoColor=white)](https://github.com/denstrelnikov)
-[![M TECH](https://img.shields.io/badge/Компания-M%20TECH-764ba2?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/denstrelnikov)
-[![Email](https://img.shields.io/badge/Почта-rufpl@ya.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rufpl@ya.ru)
+[![SRE](./assets/badges/role-sre.svg)](https://github.com/denstrelnikov)
+[![M TECH](./assets/badges/company-mtech.svg)](https://github.com/denstrelnikov)
+[![Email](./assets/badges/email-header.svg)](mailto:rufpl@ya.ru)
 
 </div>
 
@@ -51,20 +51,36 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,linux,bash,python,go,git,githubactions,prometheus,grafana,nginx,postgres,redis,aws&perline=8" alt="tech stack"/>
+<img src="./assets/icons/kubernetes.svg" width="48" alt="Kubernetes"/>
+<img src="./assets/icons/docker.svg" width="48" alt="Docker"/>
+<img src="./assets/icons/terraform.svg" width="48" alt="Terraform"/>
+<img src="./assets/icons/ansible.svg" width="48" alt="Ansible"/>
+<img src="./assets/icons/linux.svg" width="48" alt="Linux"/>
+<img src="./assets/icons/bash.svg" width="48" alt="Bash"/>
+<img src="./assets/icons/python.svg" width="48" alt="Python"/>
+<img src="./assets/icons/go.svg" width="48" alt="Go"/>
+<br/>
+<img src="./assets/icons/git.svg" width="48" alt="Git"/>
+<img src="./assets/icons/githubactions.svg" width="48" alt="GitHub Actions"/>
+<img src="./assets/icons/prometheus.svg" width="48" alt="Prometheus"/>
+<img src="./assets/icons/grafana.svg" width="48" alt="Grafana"/>
+<img src="./assets/icons/nginx.svg" width="48" alt="Nginx"/>
+<img src="./assets/icons/postgres.svg" width="48" alt="PostgreSQL"/>
+<img src="./assets/icons/redis.svg" width="48" alt="Redis"/>
+<img src="./assets/icons/aws.svg" width="48" alt="AWS"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="./assets/badges/stack-kubernetes.svg" alt="Kubernetes"/>
+<img src="./assets/badges/stack-docker.svg" alt="Docker"/>
+<img src="./assets/badges/stack-terraform.svg" alt="Terraform"/>
+<img src="./assets/badges/stack-ansible.svg" alt="Ansible"/>
+<img src="./assets/badges/stack-prometheus.svg" alt="Prometheus"/>
+<img src="./assets/badges/stack-grafana.svg" alt="Grafana"/>
+<img src="./assets/badges/stack-python.svg" alt="Python"/>
+<img src="./assets/badges/stack-go.svg" alt="Go"/>
+<img src="./assets/badges/stack-linux.svg" alt="Linux"/>
+<img src="./assets/badges/stack-github-actions.svg" alt="GitHub Actions"/>
 
 </div>
 
@@ -74,13 +90,13 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-denstrelnikov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denstrelnikov)
-[![Email](https://img.shields.io/badge/Email-rufpl@ya.ru-C4302B?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:rufpl@ya.ru)
+[![GitHub](./assets/badges/contact-github.svg)](https://github.com/denstrelnikov)
+[![Email](./assets/badges/contact-email.svg)](mailto:rufpl@ya.ru)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=100&section=footer&text=Спасибо%20за%20визит!&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Спасибо за визит"/>
+<img src="./assets/footer.svg" alt="Спасибо за визит"/>
 
 </div>
 
-<!-- denstrelnikov/denstrelnikov — README профиля GitHub -->
+<!-- denstrelnikov/denstrelnikov — README профиля GitHub; графика в ./assets/ -->
