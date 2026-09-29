@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.png" alt="Денис Стрельников"/>
+<h2 align="center">
+  <font color="#667EEA">Денис Стрельников</font>
+</h2>
 
 <img src="./assets/typing-intro.svg" alt=""/>
 
@@ -93,9 +95,11 @@
 [![GitHub](./assets/badges/contact-github.svg)](https://github.com/denstrelnikov)
 [![Email](./assets/badges/contact-email.svg)](mailto:rufpl@ya.ru)
 
-<br/><br/>
+<br/>
 
-<img src="./assets/footer.png" alt="Спасибо за визит"/>
+<p align="center">
+  <font color="#667EEA">Спасибо за визит!</font>
+</p>
 
 </div>
 
