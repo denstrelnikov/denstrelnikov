@@ -1,8 +1,6 @@
 <div align="center">
 
-<h2 align="center">
-  <font color="#667EEA">Денис Стрельников</font>
-</h2>
+<img src="./assets/name-gradient.png" alt="Денис Стрельников"/>
 
 <img src="./assets/typing-intro.svg" alt=""/>
 
@@ -97,9 +95,7 @@
 
 <br/>
 
-<p align="center">
-  <font color="#667EEA">Спасибо за визит!</font>
-</p>
+<img src="./assets/thanks-gradient.png" alt="Спасибо за визит!"/>
 
 </div>
 
