@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Денис Стрельников"/>
+<img src="./assets/header.png" alt="Денис Стрельников"/>
 
 <img src="./assets/typing-intro.svg" alt=""/>
 
@@ -95,7 +95,7 @@
 
 <br/><br/>
 
-<img src="./assets/footer.svg" alt="Спасибо за визит"/>
+<img src="./assets/footer.png" alt="Спасибо за визит"/>
 
 </div>
 
