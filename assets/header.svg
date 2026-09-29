@@ -1,13 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="5=8A !B@5;L=8:>2">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#667eea"/>
-      <stop offset="50%" stop-color="#764ba2"/>
-      <stop offset="100%" stop-color="#667eea"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="180" fill="url(#bg)"/>
-  <path fill="#ffffff" fill-opacity="0.12" d="M0,120 C200,80 400,160 600,110 C700,85 750,95 800,75 L800,180 L0,180 Z"/>
-  <path fill="#ffffff" fill-opacity="0.08" d="M0,145 C250,115 450,175 650,130 C730,110 770,120 800,105 L800,180 L0,180 Z"/>
-  <text x="400" y="95" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, system-ui, sans-serif" font-size="42" font-weight="700">5=8A !B@5;L=8:>2</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120" role="img" aria-label="Денис Стрельников">
+  <rect width="800" height="120" fill="#42A5F5"/>
+  <text x="400" y="68" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="40" font-weight="700">&#1044;&#1077;&#1085;&#1080;&#1089; &#1057;&#1090;&#1088;&#1077;&#1083;&#1100;&#1085;&#1080;&#1082;&#1086;&#1074;</text>
 </svg>
