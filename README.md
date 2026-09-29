@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=180&section=header&text=Денис%20Стрельников&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Site+Reliability+Engineer+%7C+SRE;Надёжность+%C2%B7+Автоматизация+%C2%B7+Observability;M+TECH" alt="typing intro"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=667eea&height=56&section=header&text=Site+Reliability+Engineer+%7C+SRE&fontSize=20&fontColor=ffffff&animation=scaleIn" alt="Site Reliability Engineer | SRE"/>
+
+**Надёжность · Автоматизация · Observability · M TECH**
 
 <br/>
 
@@ -79,7 +81,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=100&section=footer&text=Спасибо%20за%20визит!%20%F0%9F%99%8F&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=100&section=footer&text=Спасибо%20за%20визит!&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Спасибо за визит"/>
 
 </div>
 
