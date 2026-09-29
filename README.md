@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=180&section=header&text=Денис%20Стрельников&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=667eea&height=56&section=header&text=Site+Reliability+Engineer+%7C+SRE&fontSize=20&fontColor=ffffff&animation=scaleIn" alt="Site Reliability Engineer | SRE"/>
-
-**Надёжность · Автоматизация · Observability · M TECH**
+<img src="./assets/typing-intro.svg" alt=""/>
 
 <br/>
 
